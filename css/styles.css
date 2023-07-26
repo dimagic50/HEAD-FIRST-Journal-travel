@@ -4,10 +4,16 @@
         url("../font/EmblemaOne-Regular.ttf");
 }
 
-h1  {
-  font-family: "Emblema One", sans-serif;
-}
-
 body  {
   font-family: Verdana, Geneva, Arial, sans-serif;
+  font-size: small;
+}
+
+h1  {
+  font-family: "Emblema One", sans-serif;
+  font-size: 220%;
+}
+
+h2  {
+  font-size: 120%;
 }
