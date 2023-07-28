@@ -9,13 +9,21 @@ body  {
   font-size: small;
 }
 
+h1, h2  {
+  /* rgb(80%, 40%, 0%)*/
+  color: #cc6600;
+  border-bottom: thin dotted #888888;
+}
+
 h1  {
   font-family: "Emblema One", sans-serif;
+  /* 220% di small */
   font-size: 220%;
 }
 
 h2  {
-  font-size: 120%;
+  /* 130% di small */
+  font-size: 130%;
   font-weight: normal;
 }
 blockquote  {
